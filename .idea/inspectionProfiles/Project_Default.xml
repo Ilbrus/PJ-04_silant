@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="h3" />
+            <item index="7" class="java.lang.String" itemvalue="p" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+          <option value="W292" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="telebot.types.Message" />
+          <option value="news.NewsPortal.models.POSITIONS" />
+          <option value="news.NewsPortal.models.cashier" />
+          <option value="django.db.models.fields.related.OneToOneField.comment_set" />
+          <option value="NewsPortal.news.models.Post.objects" />
+          <option value="NewsPortal.news.models.django" />
+          <option value="NewsPortal.news.forms.cleaned_data" />
+          <option value="News.portal.models.Author.post_set" />
+          <option value="mmorpg.theboard.apps.theboard" />
+          <option value="mmorpg_board.theboard.views.tasks" />
+          <option value="mmorpg.community.views.*" />
+          <option value="mmorpg_board.community.views.theboard" />
+          <option value="mmorpg.theboard.views.HomeView" />
+          <option value="mmorpg.theboard.views.ArticleDetailView" />
+          <option value="mmorpg.community.forms.theboard" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
